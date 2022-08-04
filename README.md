@@ -2,11 +2,28 @@
 # Remote_controll_car_with_NF
 Controll car by joystick with communicate NF {Radio}
 
+## Hardware
+## + Car
+- Arduino Uno
+- Arduino Motor Shield L293D
+- Display oled 128x32
+- Module NRF24L01
+- Module shows battery level
+- Motor DC 12V
+- Robot Tank Crawler Chassis DIY
+- Plastic Battery Holder Storage Box Case with Leads
+- Pin 18650
+## + Controller
+- Arduino Nano
+- Joystick
+- Display oled 128x64
+- Module NRF24L01
+- Switch
+- Plastic Battery Holder Storage Box Case with Leads
+- Pin 18650
 ## Visual studio code
 
--  Platformio extension
-
-
+-Platformio extension
 
 
 ## Library
