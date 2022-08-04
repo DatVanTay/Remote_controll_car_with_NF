@@ -51,6 +51,12 @@ Install library with platformio
 #include <Adafruit_GFX.h>
 
 ```
+
+## Documentation
+
+[Documentation Pin](https://github.com/DatVanTay/Remote_controll_car_with_NF/blob/main/Pin.docx)
+
+
 ## Authors
 
 - [@hapqy](https://github.com/DatVanTay)
