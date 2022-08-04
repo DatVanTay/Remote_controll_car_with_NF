@@ -2,11 +2,6 @@
 # Remote_controll_car_with_NF
 Controll car by joystick with communicate NF {Radio}
 
-## Authors
-
-- [@hapqy](https://www.github.com/octokatherine)
-
-
 ## Visual studio code
 
 -  Platformio extension
@@ -37,6 +32,10 @@ Install library with platformio
 #include <Adafruit_GFX.h>
 
 ```
+## Authors
+
+- [@hapqy](https://www.github.com/octokatherine)
+
 ## Feedback
 
 If you have any feedback, please reach out to us at duyduy3852528@gmail.com
