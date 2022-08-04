@@ -24,7 +24,7 @@ Controll car by joystick with communicate NF {Radio}
 ## Software
 ## + Visual studio code
 
--Platformio extension
+- Platformio extension
 
 
 ## + Library
