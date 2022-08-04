@@ -34,7 +34,7 @@ Install library with platformio
 ```
 ## Authors
 
-- [@hapqy](https://www.github.com/octokatherine)
+- [@hapqy](https://github.com/DatVanTay)
 
 ## Feedback
 
