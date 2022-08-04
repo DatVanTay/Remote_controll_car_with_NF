@@ -22,12 +22,12 @@ Controll car by joystick with communicate NF {Radio}
 - Plastic Battery Holder Storage Box Case with Leads
 - Pin 18650
 ## Software
-## +Visual studio code
+## + Visual studio code
 
 -Platformio extension
 
 
-## +Library
+## + Library
 
 Install library with platformio
 
